@@ -1,6 +1,9 @@
 # 2048
 A 2048 game made for Debian using C++
 
+![screenshot](Screenshot.png)
+
+
 To build this project
 ```
 make
