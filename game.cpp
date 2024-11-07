@@ -182,8 +182,7 @@ void Game::m_display(void) const
 #ifdef _WIN32
     system("cls"); // Windows system clears the whole screen
 #else
-    std::cout << "\033[1;1H" << std::endl; // Move cursor to the top
-    std::cout << "\033[J"; // Clear from the cursor position downwards
+    std::cout << "\033[2J\033[1;1H";
 #endif
 
 	m_displayHeader();
