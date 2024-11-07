@@ -8,7 +8,7 @@ To build this project
 ```
 make
 cd build
-.2048
+./2048
 ```
 
 The colors in this game are being displayed using the termcolor.hpp file which can be found at https://github.com/ikalnytskyi/termcolor/tree/master
