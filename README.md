@@ -19,6 +19,15 @@ The game has undo, reset, save, load features as well
 
 It uses classes to make the board and running the game, idk whats the appropriate word for it maybe its object oriented programming i guess
 
+<h1>To play the game</h1>
+
+use arrow keys to move the tiles on the board
+press S to save
+press L to load a save file
+press R to reset the game
+press U to undo
+press Q to exit
+
 If u have a cat do pet it for me
 
 meow meow meow
