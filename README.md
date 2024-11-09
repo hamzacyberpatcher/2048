@@ -22,10 +22,10 @@ It uses classes to make the board and running the game, idk whats the appropriat
 <h1>To play the game</h1>
 
 use arrow keys to move the tiles on the board
-press S to save
-press L to load a save file
-press R to reset the game
-press U to undo
+press S to save <br>
+press L to load a save file <br>
+press R to reset the game<br>
+press U to undo<br>
 press Q to exit
 
 If u have a cat do pet it for me
